@@ -28,3 +28,5 @@ The system follows a three-stage pipeline:
 Every model is benchmarked based on:
 * **Accuracy:** Top-1 and Top-3 suggestion hits.
 * **Latency:** Total execution time and seconds per word.
+## cite as:
+P. J. Baruah, T. Borah and A. Paul, "A Hybrid Spell Checking Model for the Assamese Language Using Convolution Based Embeddings," 2026 IEEE Guwahati Subsection Conference (GCON), Guwahati, India, 2026, pp. 1-6, doi: 10.1109/GCON69192.2026.11648427.
